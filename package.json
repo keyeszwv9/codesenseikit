@@ -1,0 +1,33 @@
+{
+  "name": "codesenseikit",
+  "version": "1.0.2",
+  "description": "codesenseikit",
+  "type": "module",
+  "main": "codesenseikit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keyeszwv9/codesenseikit"
+  },
+  "website": "https://github.com/keyeszwv9/codesenseikit.git",
+  "keywords": [
+    "codesenseikit"
+  ],
+  "author": "keyeszwv9",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keyeszwv9/codesenseikit/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/keyeszwv9/codesenseikit#readme",
+  "dependencies": {
+		"codeforgekit": "1.0.2",
+		"devwizardry": "1.0.2",
+		"toolgenius": "1.0.2"
+  }
+}
